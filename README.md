@@ -4,9 +4,10 @@
 
 - [https://gowomanapp.wordpress.com]
 
+## Equipo
 by Los Elotitos
 
--Mariana Aqguayo
--Oscar Quintero
--Genis Colmenares
--Melissa Rivera
+- Mariana Aqguayo
+- Oscar Quintero
+- Genis Colmenares
+- Melissa Rivera
