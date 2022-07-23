@@ -7,7 +7,7 @@
 ## Equipo
 by Los Elotitos
 
-- Mariana Aqguayo
+- Mariana Aguayo
 - Oscar Quintero
 - Genis Colmenares
 - Melissa Rivera
