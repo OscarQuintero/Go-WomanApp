@@ -1,8 +1,8 @@
 # Go WomanApp
 
-##Prototipo no funcional en:
+## Prototipo no funcional en:
 
--[https://gowomanapp.wordpress.com]
+- [https://gowomanapp.wordpress.com]
 
 by Los Elotitos
 
